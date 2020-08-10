@@ -46,6 +46,20 @@ Nightscout acts as a web-based CGM (Continuous Glucose Montinor) to allow multip
 
 [:books: Nightscout add-on documentation][addon-doc-nightscout]
 
+### &#10003; [Transmission NAS][addon-transmission-nas]
+
+![Latest Version][transmission-nas-version-shield]
+![Supports armhf Architecture][transmission-nas-armhf-shield]
+![Supports armv7 Architecture][transmission-nas-armv7-shield]
+![Supports aarch64 Architecture][transmission-nas-aarch64-shield]
+![Supports amd64 Architecture][transmission-nas-amd64-shield]
+![Supports i386 Architecture][transmission-nas-i386-shield]
+![Docker Pulls][transmission-nas-pulls-shield]
+
+The torrent client for Home Assistant with OpenVPN and Samba Share support
+
+[:books: Transmission NAS add-on documentation][addon-doc-transmission-nas]
+
 ## Releases
 
 Releases are based on [Semantic Versioning][semver], and use the format
@@ -68,6 +82,7 @@ GitHub repository for each add-on. Please ensure you are creating the issue
 on the correct GitHub repository matching the add-on.
 
 - [Open an issue for the add-on: Nightscout][nightscout-issue]
+- [Open an issue for the add-on: Transmission NAS][transmission-nas-issue]
 
 For a general repository issue or add-on ideas [open an issue here][issue]
 
@@ -115,6 +130,16 @@ SOFTWARE.
 [nightscout-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [nightscout-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [nightscout-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
+[addon-transmission-nas]: https://github.com/marciogranzotto/addon-transmission-nas/tree/v1.0.0
+[addon-doc-transmission-nas]: https://github.com/marciogranzotto/addon-transmission-nas/blob/v1.0.0/README.md
+[transmission-nas-issue]: https://github.com/marciogranzotto/addon-transmission-nas/issues
+[transmission-nas-version-shield]: https://img.shields.io/badge/version-v1.0.0-blue.svg
+[transmission-nas-pulls-shield]: https://img.shields.io/docker/pulls/marciogranzotto/addon-transmission-nas-armhf.svg
+[transmission-nas-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[transmission-nas-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[transmission-nas-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[transmission-nas-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+[transmission-nas-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [issue]: https://github.com/marciogranzotto/addons-repository/issues
 [license-shield]: https://img.shields.io/github/license/marciogranzotto/addons-repository.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2020.svg
