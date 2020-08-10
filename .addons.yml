@@ -1,6 +1,6 @@
 channel: stable
 addons:
-  example:
+  nightscout:
     repository: marciogranzotto/addon-nightscout
     target: nightscout
     image: marciogranzotto/image-{arch}-addon-nightscout
