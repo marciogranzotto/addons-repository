@@ -4,3 +4,7 @@ addons:
     repository: marciogranzotto/addon-nightscout
     target: nightscout
     image: marciogranzotto/image-{arch}-addon-nightscout
+  transmission-nas:
+    repository: marciogranzotto/addon-transmission-nas
+    target: transmission-nas
+    image: marciogranzotto/addon-transmission-nas-{arch}
