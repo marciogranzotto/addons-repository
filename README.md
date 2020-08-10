@@ -32,6 +32,20 @@ https://github.com/marciogranzotto/addons-repository
 
 ## Add-ons provided by this repository
 
+### &#10003; [Nightscout][addon-nightscout]
+
+![Latest Version][nightscout-version-shield]
+![Supports armhf Architecture][nightscout-armhf-shield]
+![Supports armv7 Architecture][nightscout-armv7-shield]
+![Supports aarch64 Architecture][nightscout-aarch64-shield]
+![Supports amd64 Architecture][nightscout-amd64-shield]
+![Supports i386 Architecture][nightscout-i386-shield]
+![Docker Pulls][nightscout-pulls-shield]
+
+Nightscout acts as a web-based CGM (Continuous Glucose Montinor) to allow multiple caregivers to remotely view a patients glucose data in realtime.
+
+[:books: Nightscout add-on documentation][addon-doc-nightscout]
+
 ## Releases
 
 Releases are based on [Semantic Versioning][semver], and use the format
@@ -53,6 +67,7 @@ You could also open an issue here on GitHub. Note, we use a separate
 GitHub repository for each add-on. Please ensure you are creating the issue
 on the correct GitHub repository matching the add-on.
 
+- [Open an issue for the add-on: Nightscout][nightscout-issue]
 
 For a general repository issue or add-on ideas [open an issue here][issue]
 
@@ -90,6 +105,16 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+[addon-nightscout]: https://github.com/marciogranzotto/addon-nightscout/tree/v1.0.1
+[addon-doc-nightscout]: https://github.com/marciogranzotto/addon-nightscout/blob/v1.0.1/README.md
+[nightscout-issue]: https://github.com/marciogranzotto/addon-nightscout/issues
+[nightscout-version-shield]: https://img.shields.io/badge/version-v1.0.1-blue.svg
+[nightscout-pulls-shield]: https://img.shields.io/docker/pulls/marciogranzotto/image-amd64-addon-nightscout.svg
+[nightscout-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[nightscout-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[nightscout-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
+[nightscout-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+[nightscout-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [issue]: https://github.com/marciogranzotto/addons-repository/issues
 [license-shield]: https://img.shields.io/github/license/marciogranzotto/addons-repository.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2020.svg
