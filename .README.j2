@@ -110,7 +110,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 {% for addon in addons %}
-[addon-{{ addon.target }}]: {{ addon.repo }}/tree/{{ addon.version }}
+[addon-{{ addon.target }}]: {{ addon.repo }}/releases/tag/{{ addon.version }}
 [addon-doc-{{ addon.target}}]: {{ addon.repo }}/blob/{{ addon.version }}/README.md
 [{{ addon.target }}-issue]: {{ addon.repo }}/issues
 [{{ addon.target }}-version-shield]: https://img.shields.io/badge/version-{{ addon.version }}-blue.svg
