@@ -120,7 +120,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-nightscout]: https://github.com/marciogranzotto/addon-nightscout/tree/v1.0.1
+[addon-nightscout]: https://github.com/marciogranzotto/addon-nightscout/releases/tag/v1.0.1
 [addon-doc-nightscout]: https://github.com/marciogranzotto/addon-nightscout/blob/v1.0.1/README.md
 [nightscout-issue]: https://github.com/marciogranzotto/addon-nightscout/issues
 [nightscout-version-shield]: https://img.shields.io/badge/version-v1.0.1-blue.svg
@@ -130,7 +130,7 @@ SOFTWARE.
 [nightscout-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [nightscout-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [nightscout-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-transmission-nas]: https://github.com/marciogranzotto/addon-transmission-nas/tree/v1.0.0
+[addon-transmission-nas]: https://github.com/marciogranzotto/addon-transmission-nas/releases/tag/v1.0.0
 [addon-doc-transmission-nas]: https://github.com/marciogranzotto/addon-transmission-nas/blob/v1.0.0/README.md
 [transmission-nas-issue]: https://github.com/marciogranzotto/addon-transmission-nas/issues
 [transmission-nas-version-shield]: https://img.shields.io/badge/version-v1.0.0-blue.svg
