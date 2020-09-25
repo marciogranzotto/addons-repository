@@ -120,10 +120,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-nightscout]: https://github.com/marciogranzotto/addon-nightscout/releases/tag/v1.0.1
-[addon-doc-nightscout]: https://github.com/marciogranzotto/addon-nightscout/blob/v1.0.1/README.md
+[addon-nightscout]: https://github.com/marciogranzotto/addon-nightscout/releases/tag/v1.1.0
+[addon-doc-nightscout]: https://github.com/marciogranzotto/addon-nightscout/blob/v1.1.0/README.md
 [nightscout-issue]: https://github.com/marciogranzotto/addon-nightscout/issues
-[nightscout-version-shield]: https://img.shields.io/badge/version-v1.0.1-blue.svg
+[nightscout-version-shield]: https://img.shields.io/badge/version-v1.1.0-blue.svg
 [nightscout-pulls-shield]: https://img.shields.io/docker/pulls/marciogranzotto/image-amd64-addon-nightscout.svg
 [nightscout-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [nightscout-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
