@@ -1,1 +1,3 @@
-First release
+- Fixes compatibility issues with the Samba NAS add-on
+- Updates base image to v9.1.5
+- Updates Transmission to v3.00-r2
