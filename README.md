@@ -130,10 +130,10 @@ SOFTWARE.
 [nightscout-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [nightscout-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [nightscout-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-transmission-nas]: https://github.com/marciogranzotto/addon-transmission-nas/releases/tag/v1.1.1
-[addon-doc-transmission-nas]: https://github.com/marciogranzotto/addon-transmission-nas/blob/v1.1.1/README.md
+[addon-transmission-nas]: https://github.com/marciogranzotto/addon-transmission-nas/releases/tag/v1.1.2
+[addon-doc-transmission-nas]: https://github.com/marciogranzotto/addon-transmission-nas/blob/v1.1.2/README.md
 [transmission-nas-issue]: https://github.com/marciogranzotto/addon-transmission-nas/issues
-[transmission-nas-version-shield]: https://img.shields.io/badge/version-v1.1.1-blue.svg
+[transmission-nas-version-shield]: https://img.shields.io/badge/version-v1.1.2-blue.svg
 [transmission-nas-pulls-shield]: https://img.shields.io/docker/pulls/marciogranzotto/addon-transmission-nas-armhf.svg
 [transmission-nas-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [transmission-nas-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
