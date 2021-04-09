@@ -32,6 +32,20 @@ https://github.com/marciogranzotto/addons-repository
 
 ## Add-ons provided by this repository
 
+### &#10003; [Lovelace Kindle Screensaver][addon-lovelace-kindle-screensaver]
+
+![Latest Version][lovelace-kindle-screensaver-version-shield]
+![Supports armhf Architecture][lovelace-kindle-screensaver-armhf-shield]
+![Supports armv7 Architecture][lovelace-kindle-screensaver-armv7-shield]
+![Supports aarch64 Architecture][lovelace-kindle-screensaver-aarch64-shield]
+![Supports amd64 Architecture][lovelace-kindle-screensaver-amd64-shield]
+![Supports i386 Architecture][lovelace-kindle-screensaver-i386-shield]
+![Docker Pulls][lovelace-kindle-screensaver-pulls-shield]
+
+Display a lovelace page as a screensaver on a jailbroken Kindle
+
+[:books: Lovelace Kindle Screensaver add-on documentation][addon-doc-lovelace-kindle-screensaver]
+
 ### &#10003; [Nightscout][addon-nightscout]
 
 ![Latest Version][nightscout-version-shield]
@@ -81,6 +95,7 @@ You could also open an issue here on GitHub. Note, we use a separate
 GitHub repository for each add-on. Please ensure you are creating the issue
 on the correct GitHub repository matching the add-on.
 
+- [Open an issue for the add-on: Lovelace Kindle Screensaver][lovelace-kindle-screensaver-issue]
 - [Open an issue for the add-on: Nightscout][nightscout-issue]
 - [Open an issue for the add-on: Transmission NAS][transmission-nas-issue]
 
@@ -120,6 +135,16 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+[addon-lovelace-kindle-screensaver]: https://github.com/marciogranzotto/hass-lovelace-kindle-screensaver/releases/tag/v0.0.2
+[addon-doc-lovelace-kindle-screensaver]: https://github.com/marciogranzotto/hass-lovelace-kindle-screensaver/blob/v0.0.2/README.md
+[lovelace-kindle-screensaver-issue]: https://github.com/marciogranzotto/hass-lovelace-kindle-screensaver/issues
+[lovelace-kindle-screensaver-version-shield]: https://img.shields.io/badge/version-v0.0.2-blue.svg
+[lovelace-kindle-screensaver-pulls-shield]: https://img.shields.io/docker/pulls/marciogranzotto/addon-lovelace-kindle-screensaver-amd64.svg
+[lovelace-kindle-screensaver-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[lovelace-kindle-screensaver-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[lovelace-kindle-screensaver-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
+[lovelace-kindle-screensaver-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+[lovelace-kindle-screensaver-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-nightscout]: https://github.com/marciogranzotto/addon-nightscout/releases/tag/v1.1.1
 [addon-doc-nightscout]: https://github.com/marciogranzotto/addon-nightscout/blob/v1.1.1/README.md
 [nightscout-issue]: https://github.com/marciogranzotto/addon-nightscout/issues
