@@ -8,3 +8,7 @@ addons:
     repository: marciogranzotto/addon-transmission-nas
     target: transmission-nas
     image: marciogranzotto/addon-transmission-nas-{arch}
+  lovelace-kindle-screensaver:
+    repository: marciogranzotto/hass-lovelace-kindle-screensaver
+    target: lovelace-kindle-screensaver
+    image: marciogranzotto/addon-lovelace-kindle-screensaver-{arch}
