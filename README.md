@@ -153,8 +153,8 @@ SOFTWARE.
 [nightscout-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [nightscout-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [nightscout-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[nightscout-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
-[nightscout-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
+[nightscout-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
+[nightscout-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-transmission-nas]: https://github.com/marciogranzotto/addon-transmission-nas/releases/tag/v1.1.3
 [addon-doc-transmission-nas]: https://github.com/marciogranzotto/addon-transmission-nas/blob/v1.1.3/README.md
 [transmission-nas-issue]: https://github.com/marciogranzotto/addon-transmission-nas/issues
