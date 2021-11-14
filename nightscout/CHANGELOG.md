@@ -1,4 +1,4 @@
-- Update Nightscout from 14.0.4 to 14.2.2
-- Update base images
-- Update dependencies
-- Remove unsupported architectures (armv7 and i386)
+Added two more config options:
+
+- `theme` default UI theme
+- `import_config_url` import nightscout config from URL

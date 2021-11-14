@@ -145,10 +145,10 @@ SOFTWARE.
 [lovelace-kindle-screensaver-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [lovelace-kindle-screensaver-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [lovelace-kindle-screensaver-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-nightscout]: https://github.com/marciogranzotto/addon-nightscout/releases/tag/v1.2.0
-[addon-doc-nightscout]: https://github.com/marciogranzotto/addon-nightscout/blob/v1.2.0/README.md
+[addon-nightscout]: https://github.com/marciogranzotto/addon-nightscout/releases/tag/v1.3.0
+[addon-doc-nightscout]: https://github.com/marciogranzotto/addon-nightscout/blob/v1.3.0/README.md
 [nightscout-issue]: https://github.com/marciogranzotto/addon-nightscout/issues
-[nightscout-version-shield]: https://img.shields.io/badge/version-v1.2.0-blue.svg
+[nightscout-version-shield]: https://img.shields.io/badge/version-v1.3.0-blue.svg
 [nightscout-pulls-shield]: https://img.shields.io/docker/pulls/marciogranzotto/image-amd64-addon-nightscout.svg
 [nightscout-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [nightscout-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
