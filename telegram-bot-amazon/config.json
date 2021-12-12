@@ -1,0 +1,55 @@
+{
+  "name": "Telegram Bot Amazon",
+  "version": "1.0.1",
+  "slug": "telegrambotamazon",
+  "description": "A Telegram bot that, if made admin of a group, will delete any message containing an Amazon link and re-post it tagged with the specified affiliate tag.² is an open source modular smart mirror platform.",
+  "url": "https://github.com/marciogranzotto/addon-telegram-bot-amazon/tree/master/README.md",
+  "startup": "services",
+  "arch": [
+    "aarch64",
+    "amd64",
+    "armv7",
+    "armhf",
+    "i386"
+  ],
+  "image": "marciogranzotto/addon-telegram-bot-amazon-{arch}",
+  "boot": "auto",
+  "hassio_role": "default",
+  "homeassistant_api": true,
+  "ports": {},
+  "ports_description": {},
+  "map": [],
+  "options": {
+    "log_level": "info",
+    "telegram_token": "",
+    "amazon_tag": "",
+    "amazon_tld": "com",
+    "shorten_links": false,
+    "bitly_token": "",
+    "group_replacement_message": "Message by {USER} with Amazon affiliate link:\n\n{MESSAGE}",
+    "raw_links": false,
+    "check_for_redirects": false,
+    "check_for_redirects_chains": false,
+    "max_redirect_chains": 2,
+    "ignore_users": []
+  },
+  "schema": {
+    "log_level": "match(^(trace|debug|info|notice|warning|error|fatal)$)",
+    "telegram_token": "str",
+    "amazon_tag": "str",
+    "amazon_tld": "str",
+    "shorten_links": "bool?",
+    "bitly_token": "str?",
+    "group_replacement_message": "str",
+    "raw_links": "bool?",
+    "check_for_redirects": "bool?",
+    "check_for_redirects_chains": "bool?",
+    "max_redirect_chains": "int",
+    "ignore_users": [
+      "str"
+    ]
+  },
+  "environment": {
+    "LOG_FORMAT": "{LEVEL}: {MESSAGE}"
+  }
+}

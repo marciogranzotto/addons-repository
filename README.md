@@ -60,6 +60,20 @@ Nightscout acts as a web-based CGM (Continuous Glucose Montinor) to allow multip
 
 [:books: Nightscout add-on documentation][addon-doc-nightscout]
 
+### &#10003; [Telegram Bot Amazon][addon-telegram-bot-amazon]
+
+![Latest Version][telegram-bot-amazon-version-shield]
+![Supports armhf Architecture][telegram-bot-amazon-armhf-shield]
+![Supports armv7 Architecture][telegram-bot-amazon-armv7-shield]
+![Supports aarch64 Architecture][telegram-bot-amazon-aarch64-shield]
+![Supports amd64 Architecture][telegram-bot-amazon-amd64-shield]
+![Supports i386 Architecture][telegram-bot-amazon-i386-shield]
+![Docker Pulls][telegram-bot-amazon-pulls-shield]
+
+A Telegram bot that, if made admin of a group, will delete any message containing an Amazon link and re-post it tagged with the specified affiliate tag.² is an open source modular smart mirror platform.
+
+[:books: Telegram Bot Amazon add-on documentation][addon-doc-telegram-bot-amazon]
+
 ### &#10003; [Transmission NAS][addon-transmission-nas]
 
 ![Latest Version][transmission-nas-version-shield]
@@ -97,6 +111,7 @@ on the correct GitHub repository matching the add-on.
 
 - [Open an issue for the add-on: Lovelace Kindle Screensaver][lovelace-kindle-screensaver-issue]
 - [Open an issue for the add-on: Nightscout][nightscout-issue]
+- [Open an issue for the add-on: Telegram Bot Amazon][telegram-bot-amazon-issue]
 - [Open an issue for the add-on: Transmission NAS][transmission-nas-issue]
 
 For a general repository issue or add-on ideas [open an issue here][issue]
@@ -155,6 +170,16 @@ SOFTWARE.
 [nightscout-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [nightscout-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [nightscout-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
+[addon-telegram-bot-amazon]: https://github.com/marciogranzotto/addon-telegram-bot-amazon/releases/tag/v1.0.1
+[addon-doc-telegram-bot-amazon]: https://github.com/marciogranzotto/addon-telegram-bot-amazon/blob/v1.0.1/README.md
+[telegram-bot-amazon-issue]: https://github.com/marciogranzotto/addon-telegram-bot-amazon/issues
+[telegram-bot-amazon-version-shield]: https://img.shields.io/badge/version-v1.0.1-blue.svg
+[telegram-bot-amazon-pulls-shield]: https://img.shields.io/docker/pulls/marciogranzotto/addon-telegram-bot-amazon-armhf.svg
+[telegram-bot-amazon-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[telegram-bot-amazon-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[telegram-bot-amazon-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[telegram-bot-amazon-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+[telegram-bot-amazon-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-transmission-nas]: https://github.com/marciogranzotto/addon-transmission-nas/releases/tag/v1.1.3
 [addon-doc-transmission-nas]: https://github.com/marciogranzotto/addon-transmission-nas/blob/v1.1.3/README.md
 [transmission-nas-issue]: https://github.com/marciogranzotto/addon-transmission-nas/issues
