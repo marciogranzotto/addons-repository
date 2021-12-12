@@ -12,3 +12,7 @@ addons:
     repository: marciogranzotto/hass-lovelace-kindle-screensaver
     target: lovelace-kindle-screensaver
     image: marciogranzotto/addon-lovelace-kindle-screensaver-{arch}
+  telegram-bot-amazon:
+    repository: marciogranzotto/addon-telegram-bot-amazon
+    target: telegram-bot-amazon
+    image: marciogranzotto/addon-telegram-bot-amazon-{arch}
