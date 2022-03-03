@@ -16,3 +16,7 @@ addons:
     repository: marciogranzotto/addon-telegram-bot-amazon
     target: telegram-bot-amazon
     image: marciogranzotto/addon-telegram-bot-amazon-{arch}
+  prusaslicer-nonvc:
+    repository: marciogranzotto/addon-prusaslicer-nonvc
+    target: prusaslicer-nonvc
+    image: marciogranzotto/addon-prusaslicer-nonvc-{arch}
