@@ -185,10 +185,10 @@ SOFTWARE.
 [nightscout-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [nightscout-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [nightscout-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-prusaslicer-novnc]: https://github.com/marciogranzotto/addon-prusaslicer-novnc/releases/tag/v1.0.0
-[addon-doc-prusaslicer-novnc]: https://github.com/marciogranzotto/addon-prusaslicer-novnc/blob/v1.0.0/README.md
+[addon-prusaslicer-novnc]: https://github.com/marciogranzotto/addon-prusaslicer-novnc/releases/tag/v2.5.0-alpha3
+[addon-doc-prusaslicer-novnc]: https://github.com/marciogranzotto/addon-prusaslicer-novnc/blob/v2.5.0-alpha3/README.md
 [prusaslicer-novnc-issue]: https://github.com/marciogranzotto/addon-prusaslicer-novnc/issues
-[prusaslicer-novnc-version-shield]: https://img.shields.io/badge/version-v1.0.0-blue.svg
+[prusaslicer-novnc-version-shield]: https://img.shields.io/badge/version-v2.5.0-alpha3-blue.svg
 [prusaslicer-novnc-pulls-shield]: https://img.shields.io/docker/pulls/marciogranzotto/image-amd64-addon-prusaslicer-novnc.svg
 [prusaslicer-novnc-aarch64-shield]: https://img.shields.io/badge/aarch64-no-red.svg
 [prusaslicer-novnc-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg

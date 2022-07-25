@@ -1,7 +1,7 @@
 {
   "name": "PrusaSlicer",
   "slug": "prusaslicer-novnc",
-  "version": "1.0.0",
+  "version": "2.5.0-alpha3",
   "description": "PrusaSlicer NoVNC",
   "url": "https://github.com/marciogranzotto/addon-prusaslicer-novnc",
   "image": "marciogranzotto/image-{arch}-addon-prusaslicer-novnc",
