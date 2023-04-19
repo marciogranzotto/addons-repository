@@ -1,4 +1,2 @@
-Added two more config options:
-
-- `theme` default UI theme
-- `import_config_url` import nightscout config from URL
+- Update Nightscout to v14.2.6
+- Add an option to use an external MongoDB (thanks @loopy321 !)
