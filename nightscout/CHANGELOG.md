@@ -1,2 +1,1 @@
-- Update Nightscout to v14.2.6
-- Add an option to use an external MongoDB (thanks @loopy321 !)
+- Try to fix MongoDB failing to start
