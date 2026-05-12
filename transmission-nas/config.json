@@ -1,6 +1,6 @@
 {
   "name": "Transmission NAS",
-  "version": "1.1.3",
+  "version": "2.0.0",
   "slug": "transmission-nas",
   "description": "The torrent client for Home Assistant with OpenVPN and Samba Share support",
   "url": "https://github.com/marciogranzotto/addon-transmission-nas",
@@ -38,6 +38,7 @@
     "SYS_ADMIN",
     "DAC_READ_SEARCH"
   ],
+  "apparmor": true,
   "full_access": true,
   "hassio_api": true,
   "hassio_role": "default",
