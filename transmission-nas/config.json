@@ -1,6 +1,6 @@
 {
   "name": "Transmission NAS",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "slug": "transmission-nas",
   "description": "The torrent client for Home Assistant with OpenVPN and Samba Share support",
   "url": "https://github.com/marciogranzotto/addon-transmission-nas",
